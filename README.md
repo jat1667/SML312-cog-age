@@ -1,1 +1,1 @@
-# SML312-cog-age
+# This is the final write-up for SML. It should contain the code and data necessary to recreate all the plots in my paper. The only exception is the NCPT dataset, which was too large to upload here. It can be found at https://zenodo.org/records/7249732 as battery50_df.csv
